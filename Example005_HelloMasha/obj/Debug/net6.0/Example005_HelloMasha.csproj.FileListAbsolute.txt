@@ -1,0 +1,15 @@
+C:\Users\Maru\YandexDisk\Рабочие документы\Examples\Example005_HelloMasha\obj\Debug\net6.0\Example005_HelloMasha.csproj.AssemblyReference.cache
+C:\Users\Maru\YandexDisk\Рабочие документы\Examples\Example005_HelloMasha\obj\Debug\net6.0\Example005_HelloMasha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maru\YandexDisk\Рабочие документы\Examples\Example005_HelloMasha\obj\Debug\net6.0\Example005_HelloMasha.AssemblyInfoInputs.cache
+C:\Users\Maru\YandexDisk\Рабочие документы\Examples\Example005_HelloMasha\obj\Debug\net6.0\Example005_HelloMasha.AssemblyInfo.cs
+C:\Users\Maru\YandexDisk\Рабочие документы\Examples\Example005_HelloMasha\obj\Debug\net6.0\Example005_HelloMasha.csproj.CoreCompileInputs.cache
+C:\Users\Maru\YandexDisk\Рабочие документы\Examples\Example005_HelloMasha\bin\Debug\net6.0\Example005_HelloMasha.exe
+C:\Users\Maru\YandexDisk\Рабочие документы\Examples\Example005_HelloMasha\bin\Debug\net6.0\Example005_HelloMasha.deps.json
+C:\Users\Maru\YandexDisk\Рабочие документы\Examples\Example005_HelloMasha\bin\Debug\net6.0\Example005_HelloMasha.runtimeconfig.json
+C:\Users\Maru\YandexDisk\Рабочие документы\Examples\Example005_HelloMasha\bin\Debug\net6.0\Example005_HelloMasha.dll
+C:\Users\Maru\YandexDisk\Рабочие документы\Examples\Example005_HelloMasha\bin\Debug\net6.0\Example005_HelloMasha.pdb
+C:\Users\Maru\YandexDisk\Рабочие документы\Examples\Example005_HelloMasha\obj\Debug\net6.0\Example005_HelloMasha.dll
+C:\Users\Maru\YandexDisk\Рабочие документы\Examples\Example005_HelloMasha\obj\Debug\net6.0\refint\Example005_HelloMasha.dll
+C:\Users\Maru\YandexDisk\Рабочие документы\Examples\Example005_HelloMasha\obj\Debug\net6.0\Example005_HelloMasha.pdb
+C:\Users\Maru\YandexDisk\Рабочие документы\Examples\Example005_HelloMasha\obj\Debug\net6.0\Example005_HelloMasha.genruntimeconfig.cache
+C:\Users\Maru\YandexDisk\Рабочие документы\Examples\Example005_HelloMasha\obj\Debug\net6.0\ref\Example005_HelloMasha.dll
